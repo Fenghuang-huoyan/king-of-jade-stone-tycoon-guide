@@ -104,6 +104,7 @@ export const site = {
     paragraphs: [
       "King of Jade: Stone Tycoon is a management sim by 909Game (published by lvlv) that blends jade stone gambling, jewelry crafting and market-stall trading. You start from a small stall on Old Street, source raw stones, judge the jade hidden inside, craft it into jewelry, and sell to a cast of recurring customers.",
       "Beyond the main markets, the game offers an Endless Mode where rent keeps climbing and the market keeps shifting, testing how long a stall built from your earlier choices can survive.",
+      "A note on the screenshots across this site: they're taken from the game's official Steam page, which currently only has Chinese-locale UI screenshots available (909Game is a Chinese developer). The game itself officially supports English — Steam's own language list confirms it — there just aren't English-UI screenshots published yet. We'll swap these in once official English screenshots exist.",
     ],
     stats: [
       { label: "Developer", value: "909Game" },
