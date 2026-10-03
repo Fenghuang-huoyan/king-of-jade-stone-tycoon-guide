@@ -84,8 +84,8 @@ export const site = {
       "Judge raw stones, craft jadeite into jewelry, and build a business empire one cut at a time. Every guide here is checked against the game's official Steam page and updated as the community verifies more.",
     stats: ["44 Steam Achievements", "Released Sep 11, 2026", "909Game / lvlv", "Steam Management Sim"],
     primaryCta: { label: "Start Beginner Guide", href: "/guide/king-of-jade-stone-tycoon-beginner-guide" },
-    secondaryCta: { label: "See All Achievements", href: "/achievements" },
-    tertiaryCta: { label: "Endless Mode Tips", href: "/endless" },
+    secondaryCta: { label: "See All Achievements", href: "/achievements/king-of-jade-stone-tycoon-achievements" },
+    tertiaryCta: { label: "Endless Mode Tips", href: "/endless/king-of-jade-stone-tycoon-endless-mode" },
   },
 
   start: {
@@ -93,9 +93,9 @@ export const site = {
     title: "Your Jade Stall Journey",
     cards: [
       { number: "1", title: "Beginner Guide", description: "Your first stall, first stones, first sale.", href: "/guide/king-of-jade-stone-tycoon-beginner-guide", image: IMG.ss1 },
-      { number: "2", title: "Achievements", description: "The full official achievement list.", href: "/achievements", image: IMG.ss2 },
-      { number: "3", title: "Stone Appraisal", description: "How judging raw stones actually works.", href: "/appraisal", image: IMG.ss3 },
-      { number: "4", title: "Endings", description: "What determines which ending you get.", href: "/endings", image: IMG.ss6 },
+      { number: "2", title: "Achievements", description: "The full official achievement list.", href: "/achievements/king-of-jade-stone-tycoon-achievements", image: IMG.ss2 },
+      { number: "3", title: "Stone Appraisal", description: "How judging raw stones actually works.", href: "/appraisal/king-of-jade-stone-tycoon-stone-appraisal", image: IMG.ss3 },
+      { number: "4", title: "Endings", description: "What determines which ending you get.", href: "/endings/king-of-jade-stone-tycoon-endings", image: IMG.ss6 },
     ],
   },
 
